@@ -24,12 +24,12 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    github:  https://bettercho.github.io
+    github:  bettercho
     #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
-    instagram: https://www.instagram.com/jammyjjo
+    instagram: jammyjjo
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
