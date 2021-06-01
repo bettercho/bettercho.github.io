@@ -52,7 +52,7 @@ plainwhite:
 
 # Build settings
 # theme: plainwhite
-theme: Dinky
+theme: jekyll-theme-dinky
 
 plugins:
   - jekyll-seo-tag

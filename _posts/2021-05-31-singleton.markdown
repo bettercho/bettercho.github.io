@@ -2,7 +2,7 @@
 layout: post
 title:  "싱글턴 패턴"
 date:   2021-05-31 23:50:00
-categories: C++, Design Pattern
+categories: C++ DesignPattern
 ---
 <br/><br/>
 오늘 특정 모듈 설계를 하면서 싱글턴으로 구현해야 하는지 인스턴스를 다수개 가질수 있도록 해야하는지에 대한 논의가 있었다.   
